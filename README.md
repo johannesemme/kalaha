@@ -31,7 +31,9 @@ In order to control which pocket to choose when playing use the index number fro
 
 Authors
 -----------
+
 Laura Marott
+
 Johannes Emme Jørgensen
 
 
