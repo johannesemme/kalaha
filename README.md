@@ -5,6 +5,7 @@ Overview
 -----------
 
 This program provides an implementation of an AI agent for the board game Kalaha using the MINIMAX algorithm with additional alpha-beta pruning. Three different version of alpha-beta pruning are implemented and can be tested by the user.
+
 Setup
 -----------
 
