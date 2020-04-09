@@ -9,15 +9,22 @@ This program provides an implementation of an AI agent for the board game Kalaha
 Setup
 -----------
 
-Download python 3
-In Ubuntu, Mint and Debian you can install Python 3 like this:
+First Python 3 has to be downloaded and installed. In Ubuntu, Mint and Debian you can install Python 3 like this:
 
     $ sudo apt-get install python3 python3-pip
 
-Otherwise python can be downloaded and installed fromt
+Otherwise python can be downloaded and installed from
 
  	https://www.python.org/downloads/
 
-
-Install the module numpy
+Next the the module numpy needs to be installed
 	$ pip3 install numpy
+
+Usage
+-----------
+In order to run the program type the following command in the terminal
+	$ pip3 Kalaha.py
+
+In order to control which pocket to choose when playing use the index number from 0 to 5 (this number depends on the choice of pockets).
+0 is the pocket farthest away from the player's Kalaha.
+
