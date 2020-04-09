@@ -29,3 +29,9 @@ In order to run the program type the following command in the terminal
 In order to control which pocket to choose when playing use the index number from 0 to 5 (this number depends on the choice of pockets).
 0 is the pocket farthest away from the player's Kalaha.
 
+Authors
+-----------
+Laura Marott
+Johannes Emme Jørgensen
+
+
