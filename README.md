@@ -23,6 +23,7 @@ Next the the module numpy needs to be installed
 Usage
 -----------
 In order to run the program type the following command in the terminal
+
 	$ pip3 Kalaha.py
 
 In order to control which pocket to choose when playing use the index number from 0 to 5 (this number depends on the choice of pockets).
