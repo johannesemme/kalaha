@@ -26,8 +26,9 @@ In order to run the program type the following command in the terminal
 
 	$ pip3 Kalaha.py
 
-In order to control which pocket to choose when playing use the index number from 0 to 5 (this number depends on the choice of pockets).
-0 is the pocket farthest away from the player's Kalaha.
+The choice of pocket when playing is controlled by typing the index of the respective pocket. The index ranges from 0 to 5 if a game of six pockets for each players is being played. The pocket with index 0 is the pocket farthest away from the player's Kalaha.
+
+For playing against the most efficient algorithm choose 'Alpha-beta w. evaluation function 1'. 
 
 Authors
 -----------
